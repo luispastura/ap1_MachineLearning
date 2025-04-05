@@ -8,7 +8,7 @@ Este repositório contém um trabalho de grupo desenvolvido para aplicar conceit
 
 - `Untitled10.ipynb` – Notebook com todas as etapas do projeto, desde a análise dos dados até a criação e avaliação do modelo.
 - `luispastura_pastura_RELATORIO_ML.pdf` – Documento com uma explicação detalhada, em linguagem pessoal, sobre cada etapa do trabalho, incluindo reflexões e aprendizados do grupo.
-- - **Base de Dados**: [`iccmh2020rccsm_p.csv`](https://raw.githubusercontent.com/alvaroriz/datascience_datasets/refs/heads/main/iccmh2020rccsm_p.csv) – Arquivo CSV com os dados utilizados para análise e modelagem.
+- **Base de Dados**: [`iccmh2020rccsm_p.csv`](https://raw.githubusercontent.com/alvaroriz/datascience_datasets/refs/heads/main/iccmh2020rccsm_p.csv) – Arquivo CSV com os dados utilizados para análise e modelagem.
 
 ---
 
