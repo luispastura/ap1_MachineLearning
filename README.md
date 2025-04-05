@@ -7,7 +7,7 @@ Este repositório contém um trabalho de grupo desenvolvido para aplicar conceit
 ## 📁 Arquivos do Projeto
 
 - `Untitled10.ipynb` – Notebook com todas as etapas do projeto, desde a análise dos dados até a criação e avaliação do modelo.
-- `luispastura_pastura_RELATORIO.pdf` – Documento com uma explicação detalhada, em linguagem pessoal, sobre cada etapa do trabalho, incluindo reflexões e aprendizados do grupo.
+- `luispastura_pastura_RELATORIO_ML.pdf` – Documento com uma explicação detalhada, em linguagem pessoal, sobre cada etapa do trabalho, incluindo reflexões e aprendizados do grupo.
 
 ---
 
